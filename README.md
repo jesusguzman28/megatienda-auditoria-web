@@ -69,6 +69,15 @@ La página usa **solo HTML**, con el CSS y el JavaScript dentro del mismo archiv
 
 ## 🚀 Cómo abrir la página
 
+### ⭐ Opción rápida: la página ya está publicada
+
+👉 **https://jesusguzman28.github.io/megatienda-auditoria-web/**
+
+Ábrela en Chrome y ya puedes usar **Lighthouse** (F12 → Lighthouse) y **PageSpeed Insights**:
+👉 https://pagespeed.web.dev/analysis?url=https://jesusguzman28.github.io/megatienda-auditoria-web/
+
+Si prefieres trabajar con tu propia copia, usa las opciones A, B o C.
+
 ### Opción A: doble clic (la más fácil)
 
 1. Descarga o clona esta carpeta.
@@ -97,9 +106,9 @@ Luego abre en Chrome: **http://localhost:8000**
 
 Para detener el servidor presiona `Ctrl + C` en la terminal.
 
-### Opción D (extra): publicarla en internet
+### Opción D (extra): publicar tu propia copia en internet
 
-Si quieres usar **PageSpeed Insights** (https://pagespeed.web.dev), que solo funciona con páginas públicas, puedes subir la carpeta gratis a:
+**PageSpeed Insights** (https://pagespeed.web.dev) solo funciona con páginas públicas. Puedes usar el enlace de la opción rápida o subir tu propia copia gratis a:
 
 - **Netlify Drop:** https://app.netlify.com/drop (arrastras la carpeta y listo)
 - **GitHub Pages:** subes el repositorio y activas Pages en *Settings → Pages*
